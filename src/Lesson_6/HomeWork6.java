@@ -1,4 +1,4 @@
-package Lesson_6;
+
 /**
  * Java 1. HomeWork 6.
  *
